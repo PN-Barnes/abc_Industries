@@ -2,6 +2,11 @@
   text-align: center;
   background-image: url('./assets/slide_one.jpg');
 }
+.container {
+  justify-content: center;
+  max-width: 1440px;
+  margin: auto;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

@@ -8,7 +8,7 @@ header {
 #abcLogo {
   grid-row: 1;
   grid-column: 1;
-  margin-left: 4.3rem;
+  margin-left: 2.3rem;
 }
 .svglogo {
   object-fit: contain;
@@ -47,7 +47,7 @@ header {
 
 .nav-left {
   float: left;
-  margin: 2rem;
+  nav-left: 2rem;
 }
 .navList {
   grid-row: 2;
